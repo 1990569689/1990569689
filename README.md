@@ -1,3 +1,4 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1990569689)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
   <img src="https://count.getloli.com/get/@wwwAngHua?theme=asoul"/>
 </p>
